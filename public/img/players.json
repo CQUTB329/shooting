@@ -1,0 +1,80 @@
+{
+	"frames": {
+
+
+
+		"close":{
+			"frame": {"x":0,"y":0,"w":46,"h":45},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":46,"h":45},
+			"sourceSize": {"w":46,"h":45}
+		},
+
+		"saucer_b":{
+			"frame": {"x":0,"y":45,"w":218,"h":94},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":45,"w":218,"h":94},
+			"sourceSize": {"w":109,"h":94}
+		},
+
+		"main_player1":{
+			"frame": {"x":0,"y":686,"w":262,"h":464},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":686,"w":262,"h":464},
+			"sourceSize": {"w":262,"h":464}
+		},
+
+		"main_player2":{
+			"frame": {"x":262,"y":686,"w":262,"h":464},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":262,"y":686,"w":262,"h":464},
+			"sourceSize": {"w":262,"h":94}
+		},
+
+		"second_player1":{
+			"frame": {"x":0,"y":218,"w":261,"h":468},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":218,"w":261,"h":468},
+			"sourceSize": {"w":261,"h":468}
+		},
+
+		"second_player2":{
+			"frame": {"x":261,"y":218,"w":261,"h":468},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":261,"y":218,"w":261,"h":468},
+			"sourceSize": {"w":261,"h":468}
+		},
+
+		"gameover":{
+			"frame": {"x":0,"y":139,"w":519,"h":79},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":139,"w":519,"h":79},
+			"sourceSize": {"w":519,"h":79}
+		}
+
+
+
+
+
+		
+
+	},
+
+
+	"meta": {
+		"app": "http://mykrystal.com",
+		"version": "1.0",
+		"image": "players.png",
+		"format": "RGBA8888",
+		"size": {"w":1800,"h":1286},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:68947b15bb7efc40be030c076d92ff6a:7a7176ee4a47114ab8e7e8ecb8c361fc:fac4f515bf266e4f4ed746fa4fe7351a$"
+	}
+}

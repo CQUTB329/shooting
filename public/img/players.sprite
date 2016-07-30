@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpriteFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CssFileName="../images" ImageName="players" IsPhone="false" SpriteImgFileType="Png" xmlns="CssSprite">
+  <SpriteList>
+    <Sprite Path="close.png" LocationX="0" LocationY="0" />
+    <Sprite Path="saucer_b.png" LocationX="0" LocationY="45" />
+    <Sprite Path="GAME-OVER.png" LocationX="0" LocationY="139" />
+    <Sprite Path="second_player.png" LocationX="0" LocationY="218" />
+    <Sprite Path="main_player.png" LocationX="0" LocationY="686" />
+  </SpriteList>
+</SpriteFile>

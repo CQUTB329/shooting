@@ -1,0 +1,89 @@
+{
+	"frames": {
+
+		"saucer":{
+			"frame": {"x":0,"y":174,"w":218,"h":97},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":174,"w":218,"h":97},
+			"sourceSize": {"w":218,"h":97}
+		},
+
+
+		"cloud":{
+			"frame": {"x":0,"y":125,"w":137,"h":49},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":125,"w":137,"h":49},
+			"sourceSize": {"w":137,"h":49}
+		},
+
+		"fires1":{
+			"frame": {"x":0,"y":57,"w":68,"h":68},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":57,"w":68,"h":68},
+			"sourceSize": {"w":68,"h":68}
+		},
+		"fires2":{
+			"frame": {"x":68,"y":57,"w":68,"h":68},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":68,"y":57,"w":68,"h":68},
+			"sourceSize": {"w":68,"h":68}
+		},
+
+
+
+
+		"disappering1":{
+			"frame": {"x":0,"y":1546,"w":218,"h":180},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":1546,"w":218,"h":180},
+			"sourceSize": {"w":218,"h":180}
+		},
+		"disappering2":{
+			"frame": {"x":218,"y":1546,"w":218,"h":180},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":218,"y":1546,"w":218,"h":180},
+			"sourceSize": {"w":218,"h":180}
+		},
+		"disappering3":{
+			"frame": {"x":436,"y":1546,"w":218,"h":180},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":436,"y":1546,"w":218,"h":180},
+			"sourceSize": {"w":218,"h":180}
+		},
+		"disappering4":{
+			"frame": {"x":654,"y":1546,"w":218,"h":180},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":654,"y":1546,"w":218,"h":180},
+			"sourceSize": {"w":218,"h":180}
+		},
+		"disappering5":{
+			"frame": {"x":872,"y":1546,"w":218,"h":180},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":872,"y":1546,"w":218,"h":180},
+			"sourceSize": {"w":218,"h":180}
+		}
+
+		
+
+	},
+
+
+	"meta": {
+		"app": "http://mykrystal.com",
+		"version": "1.0",
+		"image": "img.png",
+		"format": "RGBA8888",
+		"size": {"w":1800,"h":1286},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:68947b15bb7efc40be030c076d92ff6a:7a7176ee4a47114ab8e7e8ecb8c361fc:fac4f515bf266e4f4ed746fa4fe7351a$"
+	}
+}
